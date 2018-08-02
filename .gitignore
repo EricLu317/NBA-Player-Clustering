@@ -1,8 +1,16 @@
-Drives_NBA.csv			Speed_NBA.csv
-Drives_NBA.xlsx			Speed_NBA.xlsx		passing_NBA.csv
-NBA_per_100.csv			passing_NBA.xlsx
-NBA_per_game_BR.csv		shooting_zones_NBA.csv
-NBA_stats_BR.csv		shooting_zones_NBA.xlsx
-NBA_totals_BR.csv		touches_NBA.csv
-NBAadvancedstats17_18.csv	touches_NBA.xlsx
+Drives_NBA.csv
+Speed_NBA.csv
+Drives_NBA.xlsx
+Speed_NBA.xlsx
+passing_NBA.csv
+NBA_per_100.csv
+passing_NBA.xlsx
+NBA_per_game_BR.csv
+shooting_zones_NBA.csv
+NBA_stats_BR.csv
+shooting_zones_NBA.xlsx
+NBA_totals_BR.csv
+touches_NBA.csv
+NBAadvancedstats17_18.csv
+touches_NBA.xlsx
 NBAstats.csv
